@@ -1,16 +1,10 @@
-# todoappusingbloc
+# Flutter Todo App using Bloc
 
-A new Flutter project.
+Todo App developed using Flutter and Bloc. Supports both light and dark mode.
 
-## Getting Started
+## Screenshots
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<img src="ss/ss-1.png" alt="SS1" width="200"/> <img src="ss/ss-2.png" alt="SS2" width="200"/>
+<img src="ss/ss-3.png" alt="SS3" width="200"/> <img src="ss/ss-4.png" alt="SS4" width="200"/>
+<img src="ss/ss-5.png" alt="SS5" width="200"/> <img src="ss/ss-6.png" alt="SS5" width="200"/>
+<img src="ss/ss-7.png" alt="SS5" width="200"/>
